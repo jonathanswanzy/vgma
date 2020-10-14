@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="https://github.com/mitesh77/Best-Flutter-UI-Templates/blob/master/best_flutter_ui_templates/assets/hotel/hotel_booking.png"></a>
+<img src="https://repository-images.githubusercontent.com/304080761/f753e400-0e43-11eb-9787-7f4f7c966f39"></a>
